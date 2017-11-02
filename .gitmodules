@@ -1,0 +1,6 @@
+[submodule "git_trial"]
+	path = git_trial
+	url = https://github.com/HarshadaNalawade/git_trial.git
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/HarshadaNalawade/git_trial.git
